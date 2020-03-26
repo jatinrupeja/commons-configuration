@@ -29,6 +29,7 @@
   <version>2.8-SNAPSHOT</version>
   <name>Apache Commons Configuration</name>
 
+  
   <inceptionYear>2001</inceptionYear>
   <description>
         Tools to assist in the reading of configuration/preferences files in
